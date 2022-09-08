@@ -1,4 +1,4 @@
-# 2 small progrmas 
+# 2 small programs 
 
 ## hash.py
 This app hashes your string by methods MD5 and SHA1
