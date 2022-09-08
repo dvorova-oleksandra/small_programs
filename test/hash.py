@@ -1,6 +1,6 @@
 import hashlib
 
-s = "Python Bootcamp"
+s = input("Enter your string")
 #хешування методом MD5
 hash_object = hashlib.md5(s.encode())
 print(hash_object.hexdigest())
