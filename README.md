@@ -1,4 +1,7 @@
-# test 
-hash.py - it is for the first task
+# 2 small progrmas 
 
-TikToko4.py - it is for second task 
+##hash.py
+This app hashes your string by methods MD5 and SHA1
+
+##TikTok.py
+This app convert TikTok video in gif format. 
